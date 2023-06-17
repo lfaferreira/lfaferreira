@@ -1,16 +1,40 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9199BE&height=120&section=header"/>
 
-<!--
-**lfaferreira/lfaferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54678F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Fernando!;I'm+an+Data+Scientist;I+from+Brazil;I+Graduated+in+Computer+Science;Be+Welcome!)](https://git.io/typing-svw)
 
-Here are some ideas to get you started:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lfaferreira&bg_color=9199BE&color=54678F&line=54678F&point=212624&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lfaferreira&show_icons=true&count_private=true&hide_border=true&title_color=212624&icon_color=9199BE&text_color=2E303E&bg_color=54678F" alt="Lucas Fernando github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfaferreira&layout=compact&hide_border=true&title_color=212624&text_color=212624&bg_color=54678F" />  
+</div>
+
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=lfaferreira&theme=dark" />	
+</p>
+
+<div align="center"> 
+<a href = "mailto:cmp.1a.lucasfernandoaferreira@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lfaferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+ 
+ ### Main skills:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=6C6B74)&nbsp; 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=6C6B74)&nbsp; 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=6C6B74)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=6C6B74)&nbsp; ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=6C6B74)&nbsp;  
+
+### Studying in this moment:
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=6C6B74)&nbsp; ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=6C6B74)&nbsp; ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=6C6B74)&nbsp;
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lfaferreira}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9199BE&height=120&section=footer"/>
