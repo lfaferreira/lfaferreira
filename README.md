@@ -7,7 +7,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lfaferreira&show_icons=true&count_private=true&hide_border=true&title_color=FEFEFE&icon_color=FB8C00&text_color=2E303E&bg_color=54678F" alt="Lucas Fernando github stats" /> 
-  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfaferreira&layout=compact&hide_border=true&title_color=FEFEFE&text_color=2E303E&bg_color=54678F" />  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfaferreira&layout=compact&hide_border=true&title_color=FEFEFE&text_color=2E303E&bg_color=54678F" />  
 </div>
 
 <p align="center">
