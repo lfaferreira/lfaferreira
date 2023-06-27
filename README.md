@@ -1,6 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9199BE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FEFEFE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Fernando!;I'm+a+Brazilian+Data+Scientist;Graduated+in+Computer+Science;Be+Welcome!)](https://git.io/typing-svw)
+ # <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="patotricks15"><a class="LI-simple-link" href='https://github.com/lfaferreira/lfaferreira/blob/main/CV%20-%20Lucas%20Fernando.pdf'>Lucas Fernando</a></div>
+
+* Data Scientist
+* Computer Science - UNICAP
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lfaferreira&bg_color=9199BE&color=212624&line=54678F&point=212624&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
