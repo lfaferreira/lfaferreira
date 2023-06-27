@@ -15,7 +15,7 @@
 
 ## 🌐 Socials
 <div align="left"> 
-	<a href = "https://www.notion.so/Data-Science-c79fc07212334190b4d73eba258a8514"> <img widht=20% height="31px" src="https://api.iconify.design/simple-icons/notion.svg"></a>
+	<a href = "https://www.notion.so/Data-Science-c79fc07212334190b4d73eba258a8514"> <img widht=20% height="30px" src="https://api.iconify.design/simple-icons/notion.svg?color=white"></a>
 	<a href="https://www.linkedin.com/in/lfaferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 	<a href = "mailto:cmp.1a.lucasfernandoaferreira@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 		
 </div>
