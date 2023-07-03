@@ -15,7 +15,7 @@
 
 ## 🌐 Socials
 <div align="left"> 
-	<a href = "https://www.notion.so/5695b3c3c2a042918f0a210b6f444081?v=6f6b6186e9a54985872e76c43322b8d1"> <img widht=20% height="30px" src="https://api.iconify.design/simple-icons/notion.svg?color=white"></a>
+	<a href = "https://gravel-hubcap-604.notion.site/5695b3c3c2a042918f0a210b6f444081?v=6f6b6186e9a54985872e76c43322b8d1&pvs=4"> <img widht=20% height="30px" src="https://api.iconify.design/simple-icons/notion.svg?color=white"></a>
 	<a href="https://www.linkedin.com/in/lfaferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 	<a href = "mailto:cmp.1a.lucasfernandoaferreira@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 		
 </div>
