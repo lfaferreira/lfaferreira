@@ -31,12 +31,4 @@
 # 📚 Studying now
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lfaferreira}/count.svg" /></p> 
-<br>
-</div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9199BE&height=120&section=footer"/>
