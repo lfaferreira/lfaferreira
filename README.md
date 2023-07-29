@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9199BE&height=120&section=header"/>
 
- # <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="patotricks15"><a class="LI-simple-link" href='https://github.com/lfaferreira/lfaferreira/blob/main/CV%20-%20Lucas%20Fernando.pdf'>Lucas Fernando</a></div>
+ # <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="patotricks15"><a class="LI-simple-link" href='https://github.com/lfaferreira/lfaferreira/blob/main/cv%20-%20lucas%20fernando.pdf'>Lucas Fernando</a></div>
 
 * Data Scientist
 * Computer Science - UNICAP
