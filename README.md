@@ -5,9 +5,6 @@
 * Data Scientist
 * Computer Science - UNICAP
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lfaferreira&bg_color=9199BE&color=212624&line=54678F&point=212624&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">  
 	<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lfaferreira&show_icons=true&count_private=true&hide_border=true&title_color=FEFEFE&icon_color=FB8C00&text_color=2E303E&bg_color=54678F" alt="Lucas Fernando github stats" />  
 	<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=lfaferreira&theme=dark" />
