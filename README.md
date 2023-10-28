@@ -1,31 +1,58 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9199BE&height=120&section=header"/>
+[![capa](https://cdn.discordapp.com/attachments/1167794667132297257/1167875357580464229/Sem_titulo.png?ex=654fb7af&is=653d42af&hm=bdffe293927aa532de1e1756fd10a5432275d6739b1d95a05475c70f67e32006&)](https://github.com/lfaferreira?tab=repositories)
+---
+ # <font Color="#ac1917">Lucas Fernando Alves Ferreira</font>
 
- # <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="patotricks15"><a class="LI-simple-link" href='https://github.com/lfaferreira/lfaferreira/blob/main/cv%20-%20lucas%20fernando.pdf'>Lucas Fernando</a></div>
+ <div id="header" align="center"> 
+   <img width="50%" src="https://cdn.discordapp.com/attachments/1167794667132297257/1167895009329168494/a152bfa49f0b642ef14371a2698548df.gif?ex=654fc9fc&is=653d54fc&hm=3a52f12b09ebcfa949bdc8e6e19e6965cb4015099bc76eea3ee49e3f27d12a1a&"/>
+ </div> 
 
-* Data Scientist
-* Computer Science - UNICAP
-
-<div align="center">  
-	<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lfaferreira&show_icons=true&count_private=true&hide_border=true&title_color=FEFEFE&icon_color=FB8C00&text_color=2E303E&bg_color=54678F" alt="Lucas Fernando github stats" />  
-	<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=lfaferreira&theme=dark" />
-</div>
-
-## 🌐 Socials
-<div align="left"> 
-	<a href = "https://gravel-hubcap-604.notion.site/5695b3c3c2a042918f0a210b6f444081?v=6f6b6186e9a54985872e76c43322b8d1&pvs=4"> <img widht=20% height="30px" src="https://api.iconify.design/simple-icons/notion.svg?color=white"></a>
-	<a href="https://www.linkedin.com/in/lfaferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-	<a href = "mailto:cmp.1a.lucasfernandoaferreira@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 		
-</div>
 
  
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+## <font color="#ac1917">👨🏻‍💻 About</font>
+Cientista da Computação apaixonado pela área de dados, possuo ampla experiência em desenvolvimento de software, análise de dados e elaboração de relatórios e dashboards.
 
-# 📚 Studying now
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+Na última empresa em que trabalhei, apliquei pensamento crítico no desenvolvimento de dashboards por meio da análise de dados, seja para compreender problemas, definir estratégias ou identificar oportunidades.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9199BE&height=120&section=footer"/>
+Com o objetivo de aprimorar constantemente minhas habilidades, estou iniciando um programa de trainee em dados pela Ada e finalizando minha especialização em Machine Learning em parceria com a Stanford University, por meio do Coursera.
+
+## <font color="#ac1917">💻 Languages and Tools </font>
+<div>
+	<div class="languages">
+		<img width="17%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167831224153296917/java-logo-1.png?ex=654f8e95&is=653d1995&hm=74264a831f1885bf641621b1428e43c885223b5f9d9afc3ccd7b60025cc20e24&"/>
+		<img width="13%" src="https://cdn.discordapp.com/attachments/1166584438411493416/1167828458844471397/Python-logo-notext.svg.png?ex=654f8c01&is=653d1701&hm=39ef3de596a29913a65012b0fae39093f7929ba7a3486952db2275c5d46377a3&"/>
+	</div>
+	<div class="tolls">
+		<img width="15%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167847961275924521/Pandas_logo.svg.png?ex=654f9e2b&is=653d292b&hm=9f52a72922655f47e9b0583a35bbbc68770a8b7f1067b151d04c5d50d9b7fa68&"/>
+		<img width="15%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167865723738148965/2560px-Scikit_learn_logo_small.svg.png?ex=654faeb6&is=653d39b6&hm=5afea78e60ac703228a1a2de4e8e8226af83d9b98a843801e41f8f96ab343cbd&"/>
+		<img width="25%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167867278625349682/matplot_title_logo.png?ex=654fb029&is=653d3b29&hm=d7af3211771045cc2a39b5f1d3cda4137b32cb798baacb26a2b97bf1b48e6f7d&"/>
+		<img width="25%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167848419029700729/2560px-NumPy_logo_2020.svg.png?ex=654f9e98&is=653d2998&hm=c42f846ce130efce1daebb30b1589173bda1555dad46742ac92248fab580ca50&"/>
+		<img width="15%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167868262986547250/Oracle-Symbol.png?ex=654fb113&is=653d3c13&hm=8fa92c2345ce280a1f7a3ec9a4832453bf4ae213d961b217b13f0d1cb46889fe&"/>
+		<img width="15%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167867940117422191/mysql-logo-png-transparent.png?ex=654fb0c6&is=653d3bc6&hm=2b5dcbd8a414e140994069bb4b2c2f45eb3969aae29c420dfacfe46e76af3371&"/>
+		<img width="10%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167868657863491775/Git-Icon-1788C.png?ex=654fb171&is=653d3c71&hm=dec7d2ffdd00270ad44bb22b2ac6950fea6a42ef4b764212434402495d5299a6&"/>
+		<img width="10%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167868737538498741/25231.png?ex=654fb184&is=653d3c84&hm=1836fc86640528de71558bfa52396538202922477e46f51d9b560c753925999f&"/>
+		<img width="10%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167868893608550462/630px-New_Power_BI_Logo.svg.png?ex=654fb1aa&is=653d3caa&hm=33841900a1a1849f70411293946448bb24797ca988c8e67ce1a76dd93f039a4e&"/>
+		<img width="10%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167869545252401316/883px-Jupyter_logo.svg.png?ex=654fb245&is=653d3d45&hm=de25964b9b41a4febfa1809820ad272585a9d5319d589a5a074678363b1345f5&"/>
+	</div>
+</div>
+
+
+## <font color="#ac1917"> 🚀 Top Repositories</font>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfaferreira&repo=TCC&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/lfaferreira/TCC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfaferreira&repo=knn-wine\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/lfaferreira/knn-wine)
+
+
+## <font color="#ac1917"> 📊 Stats</font>
+<div>
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lfaferreira&show_icons=true&icon_color=ac1917&title_color=ac1917&text_color=FFFFFF&bg_color=000000&hide_color=4c71f2&"/><img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfaferreira&show_icons=true&icon_color=ac1917&title_color=ac1917&text_color=FFFFFF&bg_color=000000&hide_color=ac1917&"/>
+</div>
+
+
+<div align="center">
+	<div class="final-image">
+		<img width="25%" src="https://cdn.discordapp.com/attachments/1167794667132297257/1167877861424767178/dafdsfd-removebg-preview.png?ex=654fba04&is=653d4504&hm=2b68a73265de99f7ec2d995a88ab59955d7e65c25eb813d2e6b7df07148663f3&" />
+	</div>
+	<i>"A verdadeira sabedoria está em reconhecer a extensão da própria ignorância" - Sócrates</i> 
+	<div class="social">
+		<a href="https://www.linkedin.com/in/lfaferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:lfafcursosvagas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> <a href="https://www.kaggle.com/nandoferreira" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> <a  href="https://www.instagram.com/1lucasfernando/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+	</div>	
+</div>
+
