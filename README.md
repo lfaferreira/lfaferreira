@@ -50,7 +50,7 @@ Com o objetivo de aprimorar constantemente minhas habilidades, estou iniciando u
 	<div class="final-image">
 		<img width="25%" src="https://cdn.discordapp.com/attachments/1166584438411493416/1166757157761470494/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?ex=654ba647&is=65393147&hm=7f1798f2438d3311fa3ec1115b541ca5decd8b4cb3aae69bfb911bca125a623d&" />		
 	</div>
-	<i>"A verdadeira sabedoria está em reconhecer a extensão da própria ignorância" - Sócrates</i> 
+	<i>A mais alta forma de virtude é ser como a água, que a todos beneficia ao invés de competir.</i> 
 	<div class="social">
 		<a href="https://www.linkedin.com/in/lfaferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:lfafcursosvagas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> <a href="https://www.kaggle.com/nandoferreira" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> <a  href="https://www.instagram.com/1lucasfernando/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	</div>
