@@ -3,7 +3,7 @@
  # <font Color="#ac1917">Lucas Fernando Alves Ferreira</font>
 
  <div id="header" align="center"> 
-   <img width="50%" src="https://cdn.discordapp.com/attachments/1167794667132297257/1167895009329168494/a152bfa49f0b642ef14371a2698548df.gif?ex=654fc9fc&is=653d54fc&hm=3a52f12b09ebcfa949bdc8e6e19e6965cb4015099bc76eea3ee49e3f27d12a1a&"/>
+   <img width="50%" src="https://cdn.discordapp.com/attachments/1167794667132297257/1167877861424767178/dafdsfd-removebg-preview.png?ex=654fba04&is=653d4504&hm=2b68a73265de99f7ec2d995a88ab59955d7e65c25eb813d2e6b7df07148663f3&"/>
  </div> 
 
 
@@ -37,7 +37,8 @@ Com o objetivo de aprimorar constantemente minhas habilidades, estou iniciando u
 
 
 ## <font color="#ac1917"> 🚀 Top Repositories</font>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfaferreira&repo=TCC&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/lfaferreira/TCC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfaferreira&repo=knn-wine\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/lfaferreira/knn-wine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfaferreira&repo=TCC&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/lfaferreira/TCC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfaferreira&repo=knn-wine\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/lfaferreira/knn-wine)	
+
 
 
 ## <font color="#ac1917"> 📊 Stats</font>
@@ -45,14 +46,13 @@ Com o objetivo de aprimorar constantemente minhas habilidades, estou iniciando u
 <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lfaferreira&show_icons=true&icon_color=ac1917&title_color=ac1917&text_color=FFFFFF&bg_color=000000&hide_color=4c71f2&"/><img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfaferreira&show_icons=true&icon_color=ac1917&title_color=ac1917&text_color=FFFFFF&bg_color=000000&hide_color=ac1917&"/>
 </div>
 
-
 <div align="center">
 	<div class="final-image">
-		<img width="25%" src="https://cdn.discordapp.com/attachments/1167794667132297257/1167877861424767178/dafdsfd-removebg-preview.png?ex=654fba04&is=653d4504&hm=2b68a73265de99f7ec2d995a88ab59955d7e65c25eb813d2e6b7df07148663f3&" />
+		<img width="25%" src="https://cdn.discordapp.com/attachments/1166584438411493416/1166757157761470494/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?ex=654ba647&is=65393147&hm=7f1798f2438d3311fa3ec1115b541ca5decd8b4cb3aae69bfb911bca125a623d&" />		
 	</div>
 	<i>"A verdadeira sabedoria está em reconhecer a extensão da própria ignorância" - Sócrates</i> 
 	<div class="social">
 		<a href="https://www.linkedin.com/in/lfaferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:lfafcursosvagas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> <a href="https://www.kaggle.com/nandoferreira" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> <a  href="https://www.instagram.com/1lucasfernando/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	</div>	
+	</div>
 </div>
 
