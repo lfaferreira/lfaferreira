@@ -19,7 +19,7 @@ Com o objetivo de aprimorar constantemente minhas habilidades, estou iniciando u
 <div>
 	<div class="languages">
 		<img width="17%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167831224153296917/java-logo-1.png?ex=654f8e95&is=653d1995&hm=74264a831f1885bf641621b1428e43c885223b5f9d9afc3ccd7b60025cc20e24&"/>
-		<img width="13%" src="https://cdn.discordapp.com/attachments/1166584438411493416/1167828458844471397/Python-logo-notext.svg.png?ex=654f8c01&is=653d1701&hm=39ef3de596a29913a65012b0fae39093f7929ba7a3486952db2275c5d46377a3&"/>
+		<img width="13%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167830748380811336/Python_logo_01.svg.png?ex=654f8e23&is=653d1923&hm=856f06d7bac4553b10f387585cc8b6e38f46744c2d632b3cc678e71b2937a1e3&"/>
 	</div>
 	<div class="tolls">
 		<img width="15%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167847961275924521/Pandas_logo.svg.png?ex=654f9e2b&is=653d292b&hm=9f52a72922655f47e9b0583a35bbbc68770a8b7f1067b151d04c5d50d9b7fa68&"/>
