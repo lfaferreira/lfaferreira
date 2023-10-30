@@ -1,6 +1,9 @@
 [![capa](https://cdn.discordapp.com/attachments/1167794667132297257/1167875357580464229/Sem_titulo.png?ex=654fb7af&is=653d42af&hm=bdffe293927aa532de1e1756fd10a5432275d6739b1d95a05475c70f67e32006&)](https://github.com/lfaferreira?tab=repositories)
 ---
- # <font Color="#ac1917">Lucas Fernando Alves Ferreira</font>
+<div align="center">
+	<h1>Lucas Fernando Alves Ferreira</h1>
+</div>
+ 
 
  <div id="header" align="center"> 
    <img width="50%" src="https://cdn.discordapp.com/attachments/1167794667132297257/1167877861424767178/dafdsfd-removebg-preview.png?ex=654fba04&is=653d4504&hm=2b68a73265de99f7ec2d995a88ab59955d7e65c25eb813d2e6b7df07148663f3&"/>
