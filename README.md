@@ -25,8 +25,8 @@ Com o objetivo de aprimorar constantemente minhas habilidades, estou iniciando u
 		<img width="13%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167830748380811336/Python_logo_01.svg.png?ex=654f8e23&is=653d1923&hm=856f06d7bac4553b10f387585cc8b6e38f46744c2d632b3cc678e71b2937a1e3&"/>
 	</div>
 	<div class="tolls">
-		<img width="15%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167847961275924521/Pandas_logo.svg.png?ex=654f9e2b&is=653d292b&hm=9f52a72922655f47e9b0583a35bbbc68770a8b7f1067b151d04c5d50d9b7fa68&"/>
-		<img width="15%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167865723738148965/2560px-Scikit_learn_logo_small.svg.png?ex=654faeb6&is=653d39b6&hm=5afea78e60ac703228a1a2de4e8e8226af83d9b98a843801e41f8f96ab343cbd&"/>
+		<img width="10%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167847961275924521/Pandas_logo.svg.png?ex=654f9e2b&is=653d292b&hm=9f52a72922655f47e9b0583a35bbbc68770a8b7f1067b151d04c5d50d9b7fa68&"/>
+		<img width="10%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167865723738148965/2560px-Scikit_learn_logo_small.svg.png?ex=654faeb6&is=653d39b6&hm=5afea78e60ac703228a1a2de4e8e8226af83d9b98a843801e41f8f96ab343cbd&"/>
 		<img width="25%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167867278625349682/matplot_title_logo.png?ex=654fb029&is=653d3b29&hm=d7af3211771045cc2a39b5f1d3cda4137b32cb798baacb26a2b97bf1b48e6f7d&"/>
 		<img width="25%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167848419029700729/2560px-NumPy_logo_2020.svg.png?ex=654f9e98&is=653d2998&hm=c42f846ce130efce1daebb30b1589173bda1555dad46742ac92248fab580ca50&"/>
 		<img width="15%" src="https://cdn.discordapp.com/attachments/1167830637076553818/1167868262986547250/Oracle-Symbol.png?ex=654fb113&is=653d3c13&hm=8fa92c2345ce280a1f7a3ec9a4832453bf4ae213d961b217b13f0d1cb46889fe&"/>
