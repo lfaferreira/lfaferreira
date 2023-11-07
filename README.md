@@ -46,7 +46,7 @@ Com o objetivo de aprimorar constantemente minhas habilidades, estou iniciando u
 
 ## <font color="#ac1917"> 📊 Stats</font>
 <div>
-<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lfaferreira&show_icons=true&icon_color=ac1917&title_color=ac1917&text_color=FFFFFF&bg_color=000000&hide_color=4c71f2&"/><img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfaferreira&show_icons=true&icon_color=ac1917&title_color=ac1917&text_color=FFFFFF&bg_color=000000&hide_color=ac1917&"/>
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lfaferreira&show_icons=true&hide_border=true&icon_color=ac1917&title_color=ac1917&text_color=FFFFFF&bg_color=000000&hide_color=4c71f2&"/><img width="50%" src="https://streak-stats.demolab.com?user=lfaferreira&theme=highcontrast&hide_border=true&background=000000&ring=AC1917&fire=AC1917&currStreakLabel=AC1917&sideLabels=FFFFFF"/>
 </div>
 
 <div align="center">
