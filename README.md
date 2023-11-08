@@ -43,12 +43,6 @@ Com o objetivo de aprimorar constantemente minhas habilidades, estou iniciando u
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfaferreira&repo=TCC&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/lfaferreira/TCC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfaferreira&repo=knn-wine\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/lfaferreira/knn-wine)	
 
 
-
-## <font color="#ac1917"> 📊 Stats</font>
-<div>
-<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lfaferreira&show_icons=true&hide_border=true&icon_color=ac1917&title_color=ac1917&text_color=FFFFFF&bg_color=000000&hide_color=4c71f2&"/><img width="50%" src="https://streak-stats.demolab.com?user=lfaferreira&theme=highcontrast&hide_border=true&background=000000&ring=AC1917&fire=AC1917&currStreakLabel=AC1917&sideLabels=FFFFFF"/>
-</div>
-
 <div align="center">
 	<div class="final-image">
 		<img width="25%" src="https://cdn.discordapp.com/attachments/1166584438411493416/1166757157761470494/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?ex=654ba647&is=65393147&hm=7f1798f2438d3311fa3ec1115b541ca5decd8b4cb3aae69bfb911bca125a623d&" />		
