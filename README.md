@@ -40,7 +40,8 @@ Com o objetivo de aprimorar constantemente minhas habilidades, estou iniciando u
 
 
 ## <font color="#ac1917"> 🚀 Top Repositories</font>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfaferreira&repo=TCC&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/lfaferreira/TCC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfaferreira&repo=knn-wine\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/lfaferreira/knn-wine)	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfaferreira&repo=knn-wine\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/lfaferreira/knn-wine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfaferreira&repo=knn-titanic\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/lfaferreira/knn-titanic) 
 
 
 <div align="center">
