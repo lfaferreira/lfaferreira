@@ -11,6 +11,15 @@
 
 Passionate computer scientist in the field of data, with extensive experience in software development, data analysis, and report and dashboard creation.
 
+
+## 🚀 Repositories
+### Prediction
+- **[🏪 Rossman Store Sales](https://github.com/lfaferreira/predict-rossmann-store-sales)**: The project aims to use a machine learning model to predict the sales quantity for each store in the next six weeks, assisting managers in future decision-making.
+### EDA
+- **[🚢 KNN Titanic](https://github.com/lfaferreira/knn-titanic)**: Exploratory Data Analysis and Machine Learning with KNN model on Titanic dataset
+
+- **[🍷 KNN Wine](https://github.com/lfaferreira/knn-wine)**: Exploratory Data Analysis and Machine Learning with KNN model on Wine dataset
+
 ## 👨🏻‍💻 Experiences
 - **Machine Learning**: Development of predictive models for classification and regression;
 - **Business Intelligence**: Construction of dashboards and KPIs;
@@ -23,14 +32,6 @@ Passionate computer scientist in the field of data, with extensive experience in
 - **Programming Languages**: Python and Java;
 - **Data Visualization Software**: Power BI;
 - **Database**: MySQL, PL/SQL, and PostgreSQL.
-
-## 🚀 Repositories
-### Prediction
-- **[🏪 Rossman Store Sales](https://github.com/lfaferreira/predict-rossmann-store-sales)**: The project aims to use a machine learning model to predict the sales quantity for each store in the next six weeks, assisting managers in future decision-making.
-### EDA
-- **[🚢 KNN Titanic](https://github.com/lfaferreira/knn-titanic)**: Exploratory Data Analysis and Machine Learning with KNN model on Titanic dataset.
-
-- **[🍷 KNN Wine](https://github.com/lfaferreira/knn-wine)**: Exploratory Data Analysis and Machine Learning with KNN model on Wine dataset.
 
 ## 📮 Social
 <div align="center">
